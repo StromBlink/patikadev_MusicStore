@@ -1,0 +1,34 @@
+body {
+  padding-top: 5rem;
+}
+
+.starter-template {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.starter-template p {
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 20px;
+}
+
+.red-text {
+  /* Kırmızı metin rengi için stil tanımlamaları */
+  color: red;
+}
+
+.list-group-item {
+  padding: 10px 50px;
+  font-size: 20px;
+  text-align: center;
+
+}
+
+.btn-primary {
+  /* "Hakkımızda" butonunu stillemek */
+  margin-top: 10px;
+  /* Butonu aşağı indirmek için margin-top ekleyin */
+}
